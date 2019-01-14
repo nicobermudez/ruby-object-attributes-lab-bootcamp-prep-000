@@ -3,6 +3,10 @@ class Dog
     @name = name
   end
   
-  def name=(full_name)
+  def name 
+    @name 
+  end
+  
+  def 
     
 end
